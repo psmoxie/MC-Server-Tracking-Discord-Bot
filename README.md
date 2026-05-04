@@ -1,1 +1,1 @@
-# MC-Server-Tracking-Discord-Bot
+Discord utility bot that provides real-time Minecraft server status monitoring via external API integration.
